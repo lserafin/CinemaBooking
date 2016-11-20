@@ -27,9 +27,3 @@ Back-End:
 Front-End:
 
 - [ ] Angular JS 2.0
-
-Archtecture Principles:
-
-- Onion Architecture 
-
-
