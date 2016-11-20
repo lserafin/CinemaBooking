@@ -1,4 +1,7 @@
 # CinemaBooking
+
+[![Build status](https://ci.appveyor.com/api/projects/status/jpijlw9v3cj48en0?svg=true)](https://ci.appveyor.com/project/lserafin/cinemabooking)
+
 Cinema Booking System with .NET Core
 
 This should be an example project just to play with different kind of technologies.
