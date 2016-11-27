@@ -13,9 +13,6 @@ In this project, I am planning to use the following languages,technologies and f
 Back-End:
 - [ ] C# (.NET Core 1.1)
 
-Front-End:
-- [ ] Typescript 2.0
-
 ### Frameworks: 
 
 Back-End:
@@ -23,7 +20,3 @@ Back-End:
 - [ ] ASP.net Core 1.1
 - [ ] ASP.net MVC
 - [ ] Entity Framework Core 1.1
-
-Front-End:
-
-- [ ] Angular JS 2.0
